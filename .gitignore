@@ -5,6 +5,10 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+# Visual Studio project files
+.vcxproj
+.vcxproj.filters
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
